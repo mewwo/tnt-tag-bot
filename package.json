@@ -1,0 +1,24 @@
+{
+	"name": "tnt-tag-bot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {},
+	"author": "mewwo",
+	"license": "GNU",
+	"devDependencies": {
+		"@types/debug": "0.0.30",
+		"@types/node": "^9.6.5",
+		"debug": "^3.1.0",
+		"tslint": "^5.9.1",
+		"tslint-eslint-rules": "^5.1.0",
+		"typescript": "^2.8.1"
+	},
+	"dependencies": {
+		"discord.js": "^11.3.2",
+		"dotenv": "^8.2.0"
+	},
+	"engines": {
+		"node": "14.x"
+	}
+}
