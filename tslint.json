@@ -7,11 +7,11 @@
 		"indent": [
 			true,
 			"tabs",
-			2
+			4
 		],
 		"semicolon": [
 			true,
-			"never"
+			"always"
 		],
 		"ordered-imports": false,
 		"align": false,
